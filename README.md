@@ -14,3 +14,9 @@ Must be able to:
 - View GOD metadata
 - Edit GOD metadata
 - Explore GOD
+
+
+
+Additional functionality:
+
+- Make Xbox 360 homebrew app with all functions
